@@ -22,4 +22,4 @@ while True:
             res = str(input('Resposta inválida! [S/N]'))
     if res in 'Nn':
         break
-
+print('Fim do Jogo')
